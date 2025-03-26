@@ -33,4 +33,5 @@
 
 **🔴 Advanced Queries: Use subqueries, CTEs, and window functions to build complex insights.**
 
-**Let's Connect -** 🟢 [**Personal Portfolio**](https://icy-sneeze-7c2.notion.site/Art-Museum-Data-Analysis-Case-Study-SQL-1ad9b578420680788af8f6951abfb76a?pvs=4)  🔴 [**LinkedIn**](https://www.linkdin.com/in/sonygaud31)
+**Let's Connect**  - 🔴 [**LinkedIn**](https://www.linkdin.com/in/sonygaud31)
+                     🟢 [**Personal Portfolio**](https://icy-sneeze-7c2.notion.site/Art-Museum-Data-Analysis-Case-Study-SQL-1ad9b578420680788af8f6951abfb76a?pvs=4) 🔴 [**Presentation**](https://www.canva.com/design/DAGhZ8PLhV4/F2-qbsPOtl4uhJf2BbpGtg/view?utm_content=DAGhZ8PLhV4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=heaaae760d2)
